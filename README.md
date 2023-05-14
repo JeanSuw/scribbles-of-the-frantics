@@ -20,6 +20,7 @@ MIT
 
 ## [Credits](#table-of-content)
 Without these guidances and references, my project would not exist.
+* 19-PWA/01-Activities/03-Day/23-Ins_IndexedDB-CRUD
 * []()
 * []()
 * []()
