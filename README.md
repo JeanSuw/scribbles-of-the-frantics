@@ -16,17 +16,41 @@ Packages to install
 ```bash
 npm i express
 ```
+
 * [webpack.js](https://webpack.js.org/guides/getting-started/)
 ```bash
-npm install webpack webpack-cli --save-dev
+npm i --save-dev webpack
+npm i webpack webpack-cli --save-dev
+npm i webpack-dev-server --save-dev
 ```
-* []
+
+* [Babel](https://www.npmjs.com/package/Babel)
 ```bash
+npm i babel
 ```
+* [IndexedDB](https://www.npmjs.com/package/idb)
+```bash
+npm i idb
+```
+To run the server, use this command
+```bash
+npm run start
+```
+You will see a new file create inside client folder called "dist".
+
+![distfile](./image/distfile.png)
+
+Switch browser and type in: http://localhost:3000/
+
 This project is build from the [starter code](https://github.com/coding-boot-camp/cautious-meme)
 It is deployed to [Heroku]()
 
 ## [Usage](#table-of-content)
+Start the application
+```bash
+npm run start
+```
+
 
 ## [License](#table-of-content)
 MIT
