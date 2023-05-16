@@ -71,6 +71,5 @@ Without these guidances and references, my project would not exist.
 * [Workbox Offline fall back](https://web.dev/learn/pwa/workbox/#offline-fallback)
 * [workbox-recipes and CacheFirst](https://developer.chrome.com/docs/workbox/modules/workbox-recipes/)
 * [Static resources cache](https://developer.chrome.com/docs/workbox/modules/workbox-recipes/#static-resources-cache)
-* []()
 
 [Back to the top](#scribbles-of-the-frantics)

@@ -23,7 +23,7 @@ module.exports = () => {
         template: './index.html',
         title: 'JATE'
       }),
-      // TODO: Add and configure workbox plugins for a service worker and manifest file.
+      // workbox plugins for a service worker and manifest file.
       new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js',
@@ -51,7 +51,7 @@ module.exports = () => {
 
     ],
     module: {
-      // TODO: Add CSS loaders and babel to webpack.
+      // CSS loaders and babel in webpack.
       rules: [
         {
           test: /\.css$/i,
