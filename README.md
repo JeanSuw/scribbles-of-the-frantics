@@ -10,8 +10,9 @@ Scribbles of the Frantic is a text editor that runs in the browser.
 * [Credits](#credits)
 
 ## [Installation](#table-of-content)
-Packages to install
+This project is build from the [starter code](https://github.com/coding-boot-camp/cautious-meme). It is deployed on Heroku. [Click here](https://scribbles-of-the-frantics.herokuapp.com/).
 
+Packages to install
 * [express](https://www.npmjs.com/package/express)
 ```bash
 npm i express
@@ -40,17 +41,20 @@ You will see a new file create inside client folder called "dist".
 
 ![distfile](./image/distfile.png)
 
-Switch browser and type in: http://localhost:3000/
+Switch to incognito window, click on the browser and type in: http://localhost:3000/
 
-This project is build from the [starter code](https://github.com/coding-boot-camp/cautious-meme)
-It is deployed to [Heroku]()
+
+
 
 ## [Usage](#table-of-content)
-Start the application
-```bash
-npm run start
-```
+[Click here to use the application](https://scribbles-of-the-frantics.herokuapp.com/)
 
+This is what you will see on the first page.
+![EmptyWindow](./image/Part_1.png)
+You can write any thing here
+![YourInputToTextEditor](./image/Part_2.png)
+
+If you refresh, your input will save.
 
 ## [License](#table-of-content)
 MIT
